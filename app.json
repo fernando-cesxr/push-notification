@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "notificationPush2",
+    "slug": "notificationPush2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
